@@ -6,7 +6,7 @@ const accountPermissions = [{
   required_auth: {
     threshold: 1,
     keys: [{
-        key: 'EOS7vgT3ZsuUxWH1tWyqw6cyKqKhPjUFbonZjyrrXqDauty61SrYe',
+        key: 'SNAX7vgT3ZsuUxWH1tWyqw6cyKqKhPjUFbonZjyrrXqDauty61SrYe',
         weight: 1
       }
     ],
@@ -18,7 +18,7 @@ const accountPermissions = [{
   required_auth: {
     threshold: 1,
     keys: [{
-        key: 'EOS5MiUJEXxjJw6wUcE6yUjxpATaWetubAGUJ1nYLRSHYPpGCJ8ZU',
+        key: 'SNAX5MiUJEXxjJw6wUcE6yUjxpATaWetubAGUJ1nYLRSHYPpGCJ8ZU',
         weight: 1
       }
     ],
@@ -30,7 +30,7 @@ const accountPermissions = [{
   required_auth: {
     threshold: 1,
     keys: [{
-        key: 'EOS8jJUMo67w6tYBhzjZqyzq5QyL7pH7jVTmv1xoakXmkkgLrfTTx',
+        key: 'SNAX8jJUMo67w6tYBhzjZqyzq5QyL7pH7jVTmv1xoakXmkkgLrfTTx',
         weight: 1
       }
     ],
